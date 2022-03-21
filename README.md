@@ -1,4 +1,4 @@
-# hola-mundo
+# Hola Mundo
 repositorio de prueba :)
 
 Autor: Katt Mercado
